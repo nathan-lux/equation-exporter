@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+/equation-pngs/
+.DS_Store
